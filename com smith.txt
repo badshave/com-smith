@@ -1,0 +1,9 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Pluto (US) Smithsonian Channel Selects (D)" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/PLuto_logo_675x675-1.png" group-title="USA | PLUTO TV",Pluto (US) Smithsonian Channel Selects (D)
+http://raw.bitnode.pm:81/674281309/7452338/1555187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="canalsmithsonian.us" tvg-name="USA: SMITHSONIAN" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="USA | DOCUMENTARY",USA: SMITHSONIAN
+http://raw.bitnode.pm:81/674281309/7452338/31940
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smithsonianchannel.us" tvg-name="USAL: SMITHSONIAN CHANNEL FHD" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="USA | ESPAÑOL",USAL: SMITHSONIAN CHANNEL FHD
+http://raw.bitnode.pm:81/674281309/7452338/1081182
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LAT: SMITHSONIAN CHANNEL FHD" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="INT | LATIN AMERICA",LAT: SMITHSONIAN CHANNEL FHD
+http://raw.bitnode.pm:81/674281309/7452338/1081288
+
